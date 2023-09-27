@@ -7,7 +7,7 @@ tags:
 - vision
 - object-detection
 - pytorch
-- finance 
+- finance
 - stock market
 - candlesticks
 - pattern recognition
@@ -25,7 +25,7 @@ model-index:
       type: object-detection
     metrics:
     - type: precision
-      value: 0.663
+      value: 0.649
       name: mAP@0.5(box)
 language:
 - en
@@ -177,7 +177,7 @@ For inquiries and contributions, please contact us at info@foduu.com.
 ```bibtex
 @ModelCard{
   author    = {Nehul Agrawal and
-               Pranjal Singh Thakur},
+               Rahul parihar},
   title     = {YOLOv8s Stock Market future prediction on Live Trading Video Data},
   year      = {2023}
 }
