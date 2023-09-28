@@ -33,6 +33,9 @@ pipeline_tag: object-detection
 ---
 
 
+<div align="center">
+  <img width="640" alt="foduucom/product-detection-in-shelf-yolov8" src="https://huggingface.co/foduucom/stockmarket-future-prediction/resolve/main/_Stockmarket-Future-Prediction.jpeg">
+</div>
 # Model Card for YOLOv8s Stock Market future trends prediction on Live Trading Video Data
 
 ## Model Summary
