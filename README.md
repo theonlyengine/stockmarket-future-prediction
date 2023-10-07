@@ -111,8 +111,6 @@ model.overrides['iou'] = 0.45  # NMS IoU threshold
 model.overrides['agnostic_nms'] = False  # NMS class-agnostic
 model.overrides['max_det'] = 1000  # maximum number of detections per image
 
-# initialize video capture
-# Open the video file
 # set image
 image = '/path/to/your/document/images'
 
@@ -137,7 +135,7 @@ The training process involves extensive computation and is conducted over multip
 
 #### Metrics
 
-- mAP@0.5 (box): 
+- mAP@0.5 (box): 0.65
   - All patterns: 0.90
   - Individual patterns: Varies based on pattern type
 
